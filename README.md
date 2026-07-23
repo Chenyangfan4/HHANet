@@ -18,8 +18,8 @@ Accurate vertebra detection is an important preprocessing step for downstream sp
 
 HHANet is designed to address the challenges of routine spine MR images, including:
 
-- strong inter-vertebral appearance similarity;
-- pathological and acquisition-related anatomical variations;
+- inter-class similarity between adjacent vertebral levels;
+- intra-class variation caused by pathological changes or imaging conditions;
 - anisotropic voxel spacing with high in-plane resolution and high slice thickness;
 - limited 3D contextual information caused by sparse inter-slice resolution.
 
