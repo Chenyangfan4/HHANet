@@ -40,7 +40,3 @@ The framework integrates three major components:
 HHANet provides a fully convolutional one-stage solution for vertebra localization and identification.
 
 ---
-
-## Method Overview
-
-The overall pipeline consists of:
